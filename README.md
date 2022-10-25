@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# WEATHER
+
+
+<h1 align="center">Gif Ornegimiz</h1>
+<p><img  align="center" src="https://raw.githubusercontent.com/ismailcal21/Weather/main/gif.gif" width="800" height="500"/></p>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
